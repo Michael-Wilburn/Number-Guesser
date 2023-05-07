@@ -2,4 +2,4 @@
 
 Play The Game:
 
-https://moneyripper.github.io/Number-Guesser/
+https://Michael-Wilburn.github.io/Number-Guesser/
